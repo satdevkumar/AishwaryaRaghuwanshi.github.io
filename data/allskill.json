@@ -1,0 +1,46 @@
+[
+    {
+        "skill": "C/C++",
+        "percent": 60
+    },
+    {
+        "skill": "Java Core",
+        "percent": 75
+    },
+    {
+        "skill": "HTML",
+        "percent": 50
+    },
+    {
+        "skill": "CSS",
+        "percent": 50
+    },
+    {
+        "skill": "Javascript",
+        "percent": 50
+    },
+    {
+        "skill": "PHP",
+        "percent": 60
+    },
+    {
+        "skill": "SQL",
+        "percent": 60
+    },
+    {
+        "skill": "Realm",
+        "percent": 70
+    },
+    {
+        "skill": "Auto CAD",
+        "percent": 40
+    },
+    {
+        "skill": "Android",
+        "percent": 75
+    },
+    {
+        "skill": "Kotlin",
+        "percent": 40
+    }
+]
